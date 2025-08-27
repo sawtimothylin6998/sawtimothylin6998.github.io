@@ -1,5 +1,5 @@
 # *Saw Timothy Lin*
-> *Study in Payap University*
+> *Study in Payap University* </b>
 > Mandalar University Mandalay, Myanmar
 Bachelor of Arts (BA) degree in English Not finished (3rd year)
 KMD Computer Training Center Mandalay, Myanmar
