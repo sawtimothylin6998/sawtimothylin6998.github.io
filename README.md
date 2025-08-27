@@ -1,2 +1,2 @@
 # *Saw Timothy Lin*
-> <strong>*Study in Payap University*<strong>
+> *Study in Payap University*
