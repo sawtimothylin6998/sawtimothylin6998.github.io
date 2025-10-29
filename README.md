@@ -1,7 +1,7 @@
 # *Saw Timothy Lin*
 > *Study in Payap University*
 
-Mandalar University Mandalay, Myanmar
+* **Mandalar University Mandalay, Myanmar**
 Bachelor of Arts (BA) degree in English Not finished (3rd year)
 KMD Computer Training Center Mandalay, Myanmar
 Diploma in Information Technology (2 year course) Grade – 80/100, Pass
