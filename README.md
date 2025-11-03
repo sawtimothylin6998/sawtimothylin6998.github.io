@@ -3,6 +3,7 @@
 >*Phone:* _(+66) 654 476 375_  
 >*Email:* [_sawtimothylin.rl@gmail.com_](mailto:sawtimothylin.rl@gmail.com)  
 >*LinkedIn:* [_www.linkedin.com/in/saw-timothy-lin-7775b02b8_](https://www.linkedin.com/in/saw-timothy-lin-7775b02b8)
+---
 
 **PROFILE SUMMARY**
 
@@ -14,11 +15,13 @@ Dedicated IT student with several years of hands-on experience in IT support acr
 Payap University International Program — Chiang Mai, Thailand  
 Bachelor of Science in Information Technology  
 Currently studying  
+---
 
 KMD Computer Training Center — Mandalay, Myanmar  
 Diploma in Information Technology (2-year course)  
 Grade: 80/100 (Pass)  
-Certificates: A+, Java Programming, ASP.Net Web Application, Microsoft SQL Server  
+Certificates: A+, Java Programming, ASP.Net Web Application, Microsoft SQL Server 
+---
 
 **WORK EXPERIENCE**
 
@@ -37,6 +40,7 @@ Troubleshot network, hardware, and software problems
 Assisted with implementation of IT projects  
 Supported daily operations through reliable maintenance and system updates  
 Built new PCs and configured devices for staff use  
+---
 
 **TECHNICAL SKILLS**
 
@@ -47,17 +51,20 @@ Microsoft SQL Server
 IT System Deployment / Installation  
 PC Building  
 Photoshop (Photo Editing)  
+---
 
 **LANGUAGES**
 
 Myanmar (Native)  
 English (Intermediate)  
+---
 
 **INTERESTS**
 
 Drawing  
 Learning new technologies  
 Video games  
+---
 
 **RECOMMENDATION LETTERS**
 
