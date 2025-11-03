@@ -24,3 +24,71 @@ Mandalar University — Mandalay, Myanmar
 Bachelor of Arts (BA) in English  
 Not completed (3rd year)  
 
+**WORK EXPERIENCE**
+
+Concordia International Co., Ltd — Mandalay, Myanmar  
+IT Support | May 2023 – 2024  
+Diagnosed and resolved hardware, software, and network issues  
+Installed and upgraded IT systems and applications  
+Supported end-users and resolved technical errors efficiently  
+Built and configured new PCs  
+Photo editing and digital material updates (Photoshop)  
+
+Right Laboratory & Health Screen — Mandalay, Myanmar  
+IT Support | Feb 2019 – May 2023  
+Provided technical support for laboratory and office IT systems  
+Troubleshot network, hardware, and software problems  
+Assisted with implementation of IT projects  
+Supported daily operations through reliable maintenance and system updates  
+Built new PCs and configured devices for staff use  
+
+**TECHNICAL SKILLS**
+
+Hardware & Network Troubleshooting  
+Java Programming  
+ASP.NET Web Application  
+Microsoft SQL Server  
+IT System Deployment / Installation  
+PC Building  
+Photoshop (Photo Editing)  
+
+**LANGUAGES**
+
+Myanmar (Native)  
+English (Intermediate)  
+
+**INTERESTS**
+
+Drawing  
+Learning new technologies  
+Video games  
+
+**RECOMMENDATION LETTERS**
+
+Concordia International Co., Ltd  
+Dr. Khin Mar Swe  
+Branch Manager  
+Concordia Co., Ltd  
+Date: May 24, 2024  
+The letter highlights that:  
+Tim shows exceptional skills, dedication, and enthusiasm in IT  
+Strong problem-solving ability and attention to detail  
+Professional in handling hardware/software issues  
+Highly effective in supporting users with different technical backgrounds  
+A valuable resource for the organization  
+Recommended as a suitable candidate for IT roles and further studies abroad  
+
+Right Laboratory & Health Screen  
+Dr. Htet Oo Lwin  
+Assistant Corporate Manager  
+Right Laboratory & Health Care  
+Date: March 2023  
+The letter states that Tim:  
+Demonstrates a remarkable ability to learn new technologies  
+Shows strong work ethic, initiative, and enthusiasm  
+Played an essential role in the smooth operation of IT systems  
+Highly effective in user support and troubleshooting  
+Works well collaboratively with team members  
+Recommended as an excellent candidate for IT roles and study opportunities abroad  
+
+
