@@ -11,8 +11,8 @@ Dedicated IT student with several years of hands-on experience in IT support acr
 
 **EDUCATION**
 
-##Payap University International Program — Chiang Mai, Thailand
-##Bachelor of Science in Information Technology
+Payap University International Program — Chiang Mai, Thailand
+Bachelor of Science in Information Technology
 Currently studying
 
 KMD Computer Training Center — Mandalay, Myanmar
