@@ -11,15 +11,16 @@ Dedicated IT student with several years of hands-on experience in IT support acr
 
 **EDUCATION**
 
-Payap University International Program — Chiang Mai, Thailand
-Bachelor of Science in Information Technology
-Currently studying
+Payap University International Program — Chiang Mai, Thailand  
+Bachelor of Science in Information Technology  
+Currently studying  
 
->KMD Computer Training Center — Mandalay, Myanmar
->Diploma in Information Technology (2-year course)
->Grade: 80/100 (Pass)
->Certificates: A+, Java Programming, ASP.Net Web Application, Microsoft SQL Server
+KMD Computer Training Center — Mandalay, Myanmar  
+Diploma in Information Technology (2-year course)  
+Grade: 80/100 (Pass)  
+Certificates: A+, Java Programming, ASP.Net Web Application, Microsoft SQL Server  
 
-Mandalar University — Mandalay, Myanmar
-Bachelor of Arts (BA) in English
-Not completed (3rd year)
+Mandalar University — Mandalay, Myanmar  
+Bachelor of Arts (BA) in English  
+Not completed (3rd year)  
+
