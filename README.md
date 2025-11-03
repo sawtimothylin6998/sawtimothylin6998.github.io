@@ -1,8 +1,8 @@
 # *Saw Timothy Lin*
-*Location:* _Chiang Mai, Thailand_  
-*Phone:* _(+66) 654 476 375_  
-*Email:* [_sawtimothylin.rl@gmail.com_](mailto:sawtimothylin.rl@gmail.com)  
-*LinkedIn:* [_www.linkedin.com/in/saw-timothy-lin-7775b02b8_](https://www.linkedin.com/in/saw-timothy-lin-7775b02b8)
+>*Location:* _Chiang Mai, Thailand_  
+>*Phone:* _(+66) 654 476 375_  
+>*Email:* [_sawtimothylin.rl@gmail.com_](mailto:sawtimothylin.rl@gmail.com)  
+>*LinkedIn:* [_www.linkedin.com/in/saw-timothy-lin-7775b02b8_](https://www.linkedin.com/in/saw-timothy-lin-7775b02b8)
 
 **PROFILE SUMMARY**
 
