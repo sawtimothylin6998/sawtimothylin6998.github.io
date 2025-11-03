@@ -20,10 +20,6 @@ Diploma in Information Technology (2-year course)
 Grade: 80/100 (Pass)  
 Certificates: A+, Java Programming, ASP.Net Web Application, Microsoft SQL Server  
 
-Mandalar University — Mandalay, Myanmar  
-Bachelor of Arts (BA) in English  
-Not completed (3rd year)  
-
 **WORK EXPERIENCE**
 
 Concordia International Co., Ltd — Mandalay, Myanmar  
