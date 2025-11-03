@@ -4,6 +4,11 @@
 *Email:* [_sawtimothylin.rl@gmail.com_](mailto:sawtimothylin.rl@gmail.com)  
 *LinkedIn:* [_www.linkedin.com/in/saw-timothy-lin-7775b02b8_](https://www.linkedin.com/in/saw-timothy-lin-7775b02b8)
 
+**PROFILE SUMMARY**
+
+Dedicated IT student with several years of professional IT support experience. Skilled in troubleshooting, system configuration, hardware/software maintenance, and user support. Known for strong work ethic, enthusiasm, attention to detail, and a commitment to continuous learning.
+
+
 * Mandalar University Mandalay, Myanmar
 * Bachelor of Arts (BA) degree in English Not finished (3rd year)
 * KMD Computer Training Center Mandalay, Myanmar
