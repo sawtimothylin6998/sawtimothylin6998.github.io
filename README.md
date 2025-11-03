@@ -1,4 +1,4 @@
-<img src="111.jpg" alt="RPB Photo" align="right" width="17%" />
+<img src="111.jpg" alt="RPB Photo" align="right" width="19%" />
 >*Location:* _Chiang Mai, Thailand_  
 >*Phone:* _(+66) 654 476 375_  
 >*Email:* [_sawtimothylin.rl@gmail.com_](mailto:sawtimothylin.rl@gmail.com)  
