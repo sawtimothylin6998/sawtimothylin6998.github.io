@@ -1,4 +1,4 @@
-<img src="saw timothy lin.jpg" alt="Saw Timothy Lin" width="120" align="right" />
+<img src="saw timothy lin.png" alt="Saw Timothy Lin" width="120" align="right" />
 # *Saw Timothy Lin*
 >*Location:* _Chiang Mai, Thailand_  
 >*Phone:* _(+66) 654 476 375_  
