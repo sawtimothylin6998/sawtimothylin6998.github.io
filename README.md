@@ -4,7 +4,7 @@
 >*Email:* [_sawtimothylin.rl@gmail.com_](mailto:sawtimothylin.rl@gmail.com)  
 >*LinkedIn:* [_www.linkedin.com/in/saw-timothy-lin-7775b02b8_](https://www.linkedin.com/in/saw-timothy-lin-7775b02b8)
 
-#**PROFILE SUMMARY**
+# **PROFILE SUMMARY**
 
 Dedicated IT student with several years of hands-on experience in IT support across corporate and laboratory environments. Recognized for strong problem-solving abilities, attention to detail, and the ability to troubleshoot hardware, software, and network issues efficiently. Highly praised by supervisors for professionalism, reliability, and a proactive approach to learning new technologies. Demonstrates excellent communication skills and patience when assisting users with varying levels of technical knowledge, creating a positive and supportive working environment. Consistently shows strong work ethic, enthusiasm for technology, and the ability to collaborate effectively with team members. Proven capability to quickly adapt to new systems, contribute to IT projects, and deliver high-quality technical support.
 
