@@ -1,5 +1,4 @@
-<img src="![saw timothy lin](https://github.com/user-attachments/assets/5d048f3b-430c-41d2-9a14-b5e72fd7d25e)
-" width="120" align="right" />
+<img src="![saw timothy lin](https://github.com/user-attachments/assets/514ccb4a-8343-4ee2-b12e-d81f55d8f2ef)" alt="Saw Timothy Lin" width="120" align="right" />
 # *Saw Timothy Lin*
 >*Location:* _Chiang Mai, Thailand_  
 >*Phone:* _(+66) 654 476 375_  
