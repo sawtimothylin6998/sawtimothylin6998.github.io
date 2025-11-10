@@ -90,7 +90,7 @@ A valuable resource for the organization
 Recommended as a suitable candidate for IT roles and further studies abroad  
 
 Right Laboratory & Health Screen  
-Dr. Htet Oo Lwin  
+Dr. Thwetoo Lwin  
 Assistant Corporate Manager  
 Right Laboratory & Health Care  
 Date: March 2023  
